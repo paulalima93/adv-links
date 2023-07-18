@@ -1,0 +1,39 @@
+a{
+    font-size: x-large;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+img {
+    position: absolute;
+    width: 60%;
+    left: 40%;
+    top: 10%
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    color: #F47457;
+    font-size: 50px;
+    padding-left: 50px;
+}
+
+.card {
+    background-color: #F7CC7E;
+    padding: 30px 60px 30px 60px;
+    margin-left: 50px;
+    width: 220px;
+    border-radius: 30px;
+}
+
+.voltar {
+    background-color:#F7CC7E;
+    padding: 20px;
+    margin-left: 20px;
+    width: 70px;
+    position: absolute;
+    top: 90%;
+    border-radius: 30px;
+}
